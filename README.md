@@ -24,3 +24,5 @@ This application includes :
      To do all the db actions
 
 ### 5. There is a csv file insurance-date-2018-03-26.csv on which i am performing all the tasks.
+
+### 6. takemongobackup.sh file takes a backup of cureent db and then moves it a dbDump folder.
